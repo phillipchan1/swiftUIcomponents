@@ -8,7 +8,7 @@
 import SwiftUI
 
 @available(iOS 13.0, macOS 10.15, *)
-public struct SwiftUIView: View {
+public struct ReusuableButton: View {
     public init() {
         
     }
