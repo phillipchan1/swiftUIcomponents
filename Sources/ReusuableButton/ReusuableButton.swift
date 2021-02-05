@@ -21,6 +21,6 @@ public struct ReusuableButton: View {
 @available(iOS 13.0, macOS 10.15, *)
 struct SwiftUIView_Previews: PreviewProvider {
     static var previews: some View {
-        SwiftUIView()
+        ReusuableButton()
     }
 }
